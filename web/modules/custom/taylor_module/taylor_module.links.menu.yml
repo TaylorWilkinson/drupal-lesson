@@ -1,0 +1,6 @@
+taylor_module.menu:
+  title: 'Maps of Stations'
+  description: 'Maps of stations'
+  parent: main
+  menu_name: main
+  route_name: taylor_module.content

@@ -1,0 +1,7 @@
+taylor_module.content:
+  path: '/stations'
+  defaults:
+    _controller: '\Drupal\taylor_module\Controller\StationMapBlockController::content'
+    _title: 'Stations map'
+  requirements:
+    _permission: 'access content'

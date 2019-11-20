@@ -52,7 +52,7 @@ $config['system.logging']['error_level'] = 'verbose';
  * Disable CSS and JS aggregation.
  */
 $config['system.performance']['css']['preprocess'] = FALSE;
-$config['system.performance']['js']['preprocess'] = FALSE;
+$config['system.performance']['mapael']['preprocess'] = FALSE;
 
 /**
  * Disable the render cache.

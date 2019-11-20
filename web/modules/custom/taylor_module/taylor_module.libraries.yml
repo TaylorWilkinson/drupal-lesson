@@ -1,0 +1,7 @@
+mapael:
+  version: 1.x
+  js:
+    mapael/jquery.mapael.js: {}
+    mapael/maps/france_departments: {}
+    mapael/script.js: {}
+  dependencies: core/jquery

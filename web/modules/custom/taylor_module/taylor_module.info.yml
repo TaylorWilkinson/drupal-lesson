@@ -1,0 +1,6 @@
+name: Taylor module showing French railway stations
+description: Create a page with map of stations in France
+package: Taylor
+type: module
+version: 1.0
+core: 8.x

@@ -176,7 +176,7 @@ AddEncoding gzip svgz
     <FilesMatch "(\.js\.gz|\.css\.gz)$">
       # Serve correct encoding type.
       Header set Content-Encoding gzip
-      # Force proxies to cache gzipped & non-gzipped css/js files separately.
+      # Force proxies to cache gzipped & non-gzipped css/mapael files separately.
       Header append Vary Accept-Encoding
     </FilesMatch>
   </IfModule>
